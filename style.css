@@ -1,0 +1,85 @@
+body{
+  background-color:tan;
+/*   background-image:url("https://uploads-ssl.webflow.com/58b8f98a097974ea1e38cb88/5c9990f4f111550f40888875_how-to-start-producing-music.jpg");
+  background-size:cover;
+background-repeat:no-repeat; */
+ */
+ 
+}
+
+.card-img-top{
+  height:300px;
+}
+
+.first{
+    height:500px;
+}
+
+.pic{
+    height:100%;
+    width:100%;
+}
+
+
+h1{
+    margin:100px;
+  
+  font-family: 'Playfair Display', serif
+}
+p{
+    font-family: 'Playfair Display', serif
+
+}
+h2,nav{
+  font-family: 'Playfair Display', serif;
+    color:tan;
+}
+
+
+
+.bottom{
+
+ height:200px;
+}
+
+.pad{
+  height:600px !important;
+    padding-top:50px;
+/*   padding-left:90px; */
+  background-color:white;
+    border-radius:20px;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+img{
+  border-radius:20px;
+}
+/*  font-family: 'Playfair Display', serif;
+font-family: 'Roboto', sans-serif; */
+.logo{
+/*   text-align:center; */
+  width:100px;
+  height:100px;
+  
+}
+
+.card{
+  border:black solid 5px;
+  margin-top:70px;
+}
+
+.card-body{
+  background-color:black;
+  color:white;
+}
+
+.btn{
+  background-color:tan;
+  text-align:center !important;
+}
+
+h2 + p{
+  margin-top:60px;
+}
+
